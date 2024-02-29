@@ -1,5 +1,6 @@
 -  Hi, I’m Arthur.
--  I am self-learner that is passionate about web dev and programming. 
+   I am self-learner that is passionate about web dev and programming.
+   
 -  My current tech stack:
     - React / Next.js 
     - Node / Express.js
