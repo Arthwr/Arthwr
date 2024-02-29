@@ -4,7 +4,7 @@
     - React / Next.js 
     - Node / Express.js
     - Astro
-    - 
+
 - I'm open to collabore on open-source projects.
 - You can reach me at : artyr007@gmail.com
 
