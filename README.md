@@ -1,9 +1,11 @@
--  Hi, I’m Arthur. I am from Kazakhstan. I am self-learner that is passionate about web dev and programming. 
+-  Hi, I’m Arthur.
+-  I am self-learner that is passionate about web dev and programming. 
 -  My current tech stack:
     - React / Next.js 
     - Node / Express.js
-    - Astro 
-- I'm open to collaborating on open-source projects.
+    - Astro
+    - 
+- I'm open to collabore on open-source projects.
 - You can reach me at : artyr007@gmail.com
 
 <!---
