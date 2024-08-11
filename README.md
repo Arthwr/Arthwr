@@ -1,11 +1,4 @@
-Hi, I’m Arthur. I am self-learner.
-
-My current stack:
-
-    -- React / Next.js 
-    -- Node / Express.js
-    -- Astro
-
+Hi, I’m Arthur. I am a self-taught programmer.
 You can reach me at: artyr007@gmail.com
 
 <!---
